@@ -29,6 +29,10 @@ projects[features][subdir] = "contrib"
 projects[respondjs][subdir] = "contrib"
 projects[menu_block][subdir] = "contrib"
 
+;Custom
+projects[homepage_slideshow][location] = http://features.asonline.co.nz/fserver
+projects[homepage_slideshow][subdir] = "custom"
+
 ; Libraries
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
