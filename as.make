@@ -52,6 +52,4 @@ libraries[superfish][directory_name] = "superfish"
 libraries[superfish][type] = "library"
 
 ;Themes
-projects[] = aurora
-projects[] = adaptivetheme
-projects[] = basic
+projects[basic][download][url] = "https://github.com/tomrishworth/basic.git"
