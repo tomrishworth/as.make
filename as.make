@@ -32,6 +32,7 @@ projects[fences][subdir] = "contrib"
 projects[panels][subdir] = "contrib" 
 projects[respondjs][subdir] = "contrib"
 projects[menu_block][subdir] = "contrib"
+projects[flexslider][subdir] = "contrib"
 
 ;Custom
 projects[homepage_slideshow][location] = http://features.asonline.co.nz/fserver
@@ -42,6 +43,10 @@ libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
+libraries[flexslider][download][type] = "get"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][type] = "library"
 libraries[jquery.cycle][download][type] = "get"
 libraries[jquery.cycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
@@ -56,4 +61,5 @@ libraries[superfish][directory_name] = "superfish"
 libraries[superfish][type] = "library"
 
 ;Themes
-projects[basic][download][url] = "https://github.com/tomrishworth/basic.git"
+projects[] = omega
+projects[][download][url] = "https://github.com/tomrishworth/as.git"
