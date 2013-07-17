@@ -61,5 +61,7 @@ libraries[superfish][directory_name] = "superfish"
 libraries[superfish][type] = "library"
 
 ;Themes
-projects[omega][version] = "7.4"
-projects[][download][url] = "https://github.com/tomrishworth/as.git"
+projects[] = omega
+projects[as][type] = theme
+projects[as][download][type] = git
+projects[as][download][url] = git://github.com/tomrishworth/as.git
