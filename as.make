@@ -33,6 +33,7 @@ projects[panels][subdir] = "contrib"
 projects[respondjs][subdir] = "contrib"
 projects[menu_block][subdir] = "contrib"
 projects[flexslider][subdir] = "contrib"
+projects[link_css][subdir] = "contrib"
 
 ;Custom
 projects[homepage_slideshow][location] = http://features.asonline.co.nz/fserver
