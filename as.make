@@ -33,8 +33,7 @@ projects[respondjs][subdir] = "contrib"
 projects[menu_block][subdir] = "contrib"
 projects[flexslider][subdir] = "contrib"
 projects[link_css][subdir] = "contrib"
-
-
+projects[responsive_navigation][subdir] = "contrib"
 
 ; Libraries
 libraries[colorbox][download][type] = "get"
@@ -53,6 +52,11 @@ libraries[superfish][download][type] = "get"
 libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/master.zip"
 libraries[superfish][directory_name] = "superfish"
 libraries[superfish][type] = "library"
+libraries[responsive_navigation][download][type] = "get"
+libraries[responsive_navigation][download][url] = "https://github.com/viljamis/responsive-nav.js/archive/1.0.17.zip"
+libraries[responsive_navigation][directory_name] = "responsive_navigation"
+libraries[responsive_navigation][type] = "library"
+
 
 ;Themes
 projects[] = omega
