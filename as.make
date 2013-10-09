@@ -13,7 +13,6 @@ projects[libraries][subdir] = "contrib"
 projects[context][subdir] = "contrib"
 projects[wysiwyg][subdir] = "contrib"
 projects[transliteration][subdir] = "contrib"
-projects[views_slideshow][subdir] = "contrib"
 projects[colorbox][subdir] = "contrib"
 projects[media][subdir] = "contrib"
 projects[backup_migrate][subdir] = "contrib"
@@ -35,9 +34,7 @@ projects[menu_block][subdir] = "contrib"
 projects[flexslider][subdir] = "contrib"
 projects[link_css][subdir] = "contrib"
 
-;Custom
-projects[homepage_slideshow][location] = http://features.asonline.co.nz/fserver
-projects[homepage_slideshow][subdir] = "custom"
+
 
 ; Libraries
 libraries[colorbox][download][type] = "get"
@@ -48,10 +45,6 @@ libraries[flexslider][download][type] = "get"
 libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/master.zip"
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
-libraries[jquery.cycle][download][type] = "get"
-libraries[jquery.cycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
-libraries[jquery.cycle][directory_name] = "jquery.cycle"
-libraries[jquery.cycle][type] = "library"
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
