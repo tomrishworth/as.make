@@ -34,6 +34,7 @@ projects[menu_block][subdir] = "contrib"
 projects[flexslider][subdir] = "contrib"
 projects[link_css][subdir] = "contrib"
 projects[responsive_navigation][subdir] = "contrib"
+projects[date][subdir] = "contrib"
 
 ; Libraries
 libraries[colorbox][download][type] = "get"
