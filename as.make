@@ -34,6 +34,7 @@ projects[menu_block][subdir] = "contrib"
 projects[flexslider][subdir] = "contrib"
 projects[link_css][subdir] = "contrib"
 projects[responsive_navigation][subdir] = "contrib"
+projects[responsive_navigation][version] = "1.x-dev"
 projects[date][subdir] = "contrib"
 
 ; Libraries
