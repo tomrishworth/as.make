@@ -36,6 +36,7 @@ projects[link_css][subdir] = "contrib"
 projects[responsive_navigation][subdir] = "contrib"
 projects[responsive_navigation][version] = "1.x-dev"
 projects[date][subdir] = "contrib"
+projects[block_class][subdir] = "contrib"
 
 ; Libraries
 libraries[colorbox][download][type] = "get"
