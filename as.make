@@ -25,6 +25,7 @@ projects[jquery_update][subdir] = "contrib"
 projects[fences][subdir] = "contrib" 
 projects[respondjs][subdir] = "contrib"
 projects[flexslider][subdir] = "contrib"
+projects[admin_menu][subdir] = "contrib"
 
 ; Libraries
 libraries[colorbox][download][type] = "get"
