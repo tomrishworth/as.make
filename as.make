@@ -42,8 +42,9 @@ libraries[ckeditor][type] = "library"
 
 ;Themes
 projects[] = bootstrap
-projects[ws_bootstrap][type] = theme
-projects[ws_bootstrap][download][type] = git
-projects[ws_bootstrap][download][url] = https://github.com/tomrishworth/WS-Bootstrap.git
+projects[ws_bootstrap][type] = "theme"
+projects[ws_bootstrap][download][type] = "git"
+projects[ws_bootstrap][download][url] = "git://github.com/tomrishworth/WS-Bootstrap.git"
+projects[ws_bootstrap][directory_name] = "ws_bootstrap"
 
 
